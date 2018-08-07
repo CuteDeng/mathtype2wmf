@@ -1,0 +1,10 @@
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\bin\Debug\mathtype2latex.exe.config
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\bin\Debug\mathtype2latex.exe
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\bin\Debug\mathtype2latex.pdb
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\obj\Debug\mathtype2latex.csprojAssemblyReference.cache
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\obj\Debug\mathtype2latex.csproj.CoreCompileInputs.cache
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\obj\Debug\mathtype2latex.csproj.CopyComplete
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\obj\Debug\mathtype2latex.exe
+C:\Users\dxw\Desktop\mathtype2latex\mathtype2latex\obj\Debug\mathtype2latex.pdb
